@@ -105,4 +105,6 @@
 
 ### 🌊Simulation/Physics [^](#table)
 
--   [FLIP Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) : is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [![market]](https://blendermarket.com/products/flipfluids)
+-   [Super IO](https://github.com/atticus-lv/super_io/releases/tag/v.1.4.7) : drop and drag files into Blender to import
+-   [Hide-Steps](https://amanbairwal.gumroad.com/l/HideSteps) : changes alt-H to single un-hide instead of show all hidden items
+-   
