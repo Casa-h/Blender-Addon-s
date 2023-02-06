@@ -98,3 +98,11 @@
 </ul>
 </details>
 <br>
+
+## 🔮Add-ons [^](#table)
+
+-   Check list of Blender's built-in add-ons documentation [here](https://docs.blender.org/manual/en/dev/addons/index.html).
+
+### 🌊Simulation/Physics [^](#table)
+
+-   [FLIP Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) : is a powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [![market]](https://blendermarket.com/products/flipfluids)
