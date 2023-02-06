@@ -107,4 +107,4 @@
 
 -   [Super IO](https://github.com/atticus-lv/super_io/releases/tag/v.1.4.7) : drop and drag files into Blender to import
 -   [Hide-Steps](https://amanbairwal.gumroad.com/l/HideSteps) : changes alt-H to single un-hide instead of show all hidden items
--   
+-   [SB image to video](https://github.com/Pullusb/SB_images_to_video) : quickly export rendered image sequence to video file
